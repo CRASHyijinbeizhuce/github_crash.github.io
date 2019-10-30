@@ -18,7 +18,8 @@ favicon: favicon.ico
 repository: github_crash/github_crash.github.io
 github_url: https://github.com/github_crash
 url: http://www.github_crash.com
-enforce_ssl: ityouknow.com
+enforce_ssl: github_crash.com
+
 
 ## Gem
 plugins:
